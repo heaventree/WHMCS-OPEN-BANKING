@@ -1,0 +1,33 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-addons",
+  "name": "openbanking_reconciliation",
+  "license": "proprietary",
+  "category": "finance",
+  "description": {
+    "name": "OpenBanking Reconciliation",
+    "tagline": "Automatic payment reconciliation from more than 2300+ banks in Europe!",
+    "long": "Automate bank payment reconciliation easily from almost any bank in the EU. Transactions are collected from the connected account on every cron run, when matched with an invoice number, there is nothing else to do, the transaction will be registered on WHMCS!\n\nUse GoCardless, Wise or Plaid, they offer free access forever to the banking API, an account is required for this addon..",
+    "features": [
+      "Automatic Reconciliation",
+      "Rules / Custom Hooks",
+      "Admin Widget",
+      "Multi-currency / Multi bank"
+    ]
+  },
+  "logo": {
+    "filename": "logo.png"
+  },
+  "support": {
+    "homepage": "https:\/\/procyonlabs.eu\/",
+    "learn_more": "https:\/\/marketplace.whmcs.com\/product\/6356-open-banking-reconciliation",
+    "email": "info@procyonlabs.eu",
+    "support_url": "https:\/\/procyonlabs.eu\/contact-us"
+  },
+  "authors": [
+    {
+      "name": "Procyon Web SARL-S",
+      "homepage": "https:\/\/procyonweb.lu\/"
+    }
+  ]
+}
